@@ -42,12 +42,3 @@ Trigger one conversion and wait until it is done.
     float getRemoteTemperature(void);
 
 Read temperature values. Returns -1000.0 in case of error.
-
-License Information
--------------------
-
-This product is _**open source**_!
-
-Please review the LICENSE.md file for license information.
-
-Distributed as-is; no warranty is given.
