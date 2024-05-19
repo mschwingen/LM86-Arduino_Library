@@ -1,0 +1,33 @@
+########################################
+# Syntax Coloring Map for LM86 Library #
+########################################
+# Class
+###################################################################
+
+LM86	KEYWORD1
+
+###################################################################
+# Methods and Functions
+###################################################################
+
+begin	KEYWORD2
+ConvRate	KEYWORD2
+oneshot	KEYWORD2
+getLocalTemperature	KEYWORD2
+getRemoteTemperature	KEYWORD2
+
+###################################################################
+# Constants
+###################################################################
+
+CR_62mHz	LITERAL1
+CR_125mHz	LITERAL1
+CR_250mHz	LITERAL1
+CR_500mHz	LITERAL1
+CR_1Hz	LITERAL1
+CR_2Hz	LITERAL1
+CR_4Hz	LITERAL1
+CR_8Hz	LITERAL1
+CR_16Hz	LITERAL1
+CR_32Hz	LITERAL1
+CR_ONESHOT	LITERAL1
